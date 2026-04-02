@@ -29,7 +29,7 @@ The agent is context-aware of the following core tables:
 
 - **Python**: Version `3.13` or higher.
 - **[uv](https://docs.astral.sh/uv/)**: Recommended Python package manager for fast and reproducible installs.
-- **MCP Toolbox**: An active instance of the MCP Toolbox running locally or remotely.
+- **MCP Toolbox**: An active instance of the MCP Toolbox running locally or remotely (Docs on MCP Toolbox for Database: [Documentation](https://mcp-toolbox.dev/documentation/)).
 
 ## Getting Started
 
